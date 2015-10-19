@@ -1,7 +1,0 @@
-Scrumptious non-functional requirements:
-
-Usability – come up with a consistent UI, test it with users to make sure they like it and can navigate it.  Document well. Put user in control.
-Reliability – Make sure it doesn’t crash or get errors
-Performance – Research ways to maintain speed and efficiency of app.
-Supportability – Make it easy to maintain and repair, partially through modularity.
-
