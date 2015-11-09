@@ -1,7 +1,9 @@
-#Scrumptious non-functional requirements:
+Scrumptious non-functional requirements:
 
-Usability – come up with a consistent UI, test it with users to make sure they like it and can navigate it.  Document well. Put user in control.
-Reliability – Make sure it doesn’t crash or get errors
-Performance – Research ways to maintain speed and efficiency of app.
-Supportability – Make it easy to maintain and repair, partially through modularity.
+Usability – A UI that uses the same theme throughout. Allows user to follow his/her intuition by following common app standards such as hamburger menus and search and edit icons.
 
+Reliability – Database of recipes does not fail
+
+Performance – Search results for recipes should display in under 3 seconds.
+
+Supportability – Should be able to add new recipes to database easily over time.
